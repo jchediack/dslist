@@ -1,7 +1,6 @@
 package com.jchediack.dslist.dto;
 
 import com.jchediack.dslist.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
