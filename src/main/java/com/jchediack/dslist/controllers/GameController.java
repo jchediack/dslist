@@ -2,7 +2,6 @@ package com.jchediack.dslist.controllers;
 
 
 import com.jchediack.dslist.dto.GameMinDTO;
-import com.jchediack.dslist.entities.Game;
 import com.jchediack.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
